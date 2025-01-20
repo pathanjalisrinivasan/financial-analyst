@@ -1,5 +1,3 @@
-# financial-analyst
-
 # Real-Time Stock Analysis Tool
 
 This project provides a robust and user-friendly solution for real-time stock data analysis, offering valuable insights through technical indicators, price trends, and interactive charts.
