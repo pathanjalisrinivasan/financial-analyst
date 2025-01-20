@@ -25,7 +25,7 @@ This project provides a robust and user-friendly solution for real-time stock da
 
 Clone the repository:
    ```bash
-   git clone https://github.com/pathanjalisrinivasan/financial-analyst.git
+   git clone https://github.com/pathanjalisrinivasan/stock-analyst.git
 
 ```
 
