@@ -1,4 +1,4 @@
-# Indian Stock Market Analysis App
+# Stock Analysis
 
 This repository contains a Streamlit application for analyzing stock market data using the Alpha Vantage API. The app allows users to search for stocks, view technical indicators, and receive insights and recommendations based on sentiment analysis.
 
