@@ -69,5 +69,5 @@ Click on "Fetch Data" to view the technical indicators, candlestick charts, RSI,
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
