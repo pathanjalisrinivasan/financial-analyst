@@ -22,13 +22,12 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to set up the application:
 
 1. **Clone the Repository:**
+Open your terminal and run the following command to clone the repository:
 
-   Open your terminal and run the following command to clone the repository:
-
-   ```bash
-   git clone https://github.com/pathanjalisrinivasan/stock-analyst.git
-   cd stock-analyst
-   ```
+```bash
+git clone https://github.com/pathanjalisrinivasan/stock-analyst.git
+cd stock-analyst
+```
    
 Create a Virtual Environment (optional but recommended):
 
@@ -67,6 +66,7 @@ Use the search box to find a stock by its symbol.
 Click on "Fetch Data" to view the technical indicators, candlestick charts, RSI, MACD, sentiment analysis, automated insights, and stock recommendations.
 
 ## Contributing
+
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 License
